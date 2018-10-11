@@ -1,13 +1,13 @@
 html {
-    box-sizing: border-box;
-    background-color: #f2f2f2;
-    font-family: Georgia, serif;
-    line-height: 1.5;
-  }
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 .cards {
   margin: 0;
@@ -25,7 +25,7 @@ html {
   border: 3px solid #e2e2e2;
   border-radius: 10px;
   text-align: left;
-  }
+}
 
 .cards img {
   display: block;
@@ -69,6 +69,6 @@ html {
 }
 
 .cards a:hover {
-  background-xolor: #333
-  color: #fff
+  background-color: #333;
+  color: #fff;
 }
